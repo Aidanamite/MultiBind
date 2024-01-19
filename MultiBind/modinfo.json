@@ -1,0 +1,13 @@
+{
+  "name": "MultiBind",
+  "author": "Aidanamite",
+  "description": "Allows user to bind multiple commands to a single keybind",
+  "version": "1.0.0",
+  "license": "GNU AGPLv3",
+  "icon": "icon.png",
+  "banner": "banner.jpg",
+  "gameVersion": "1.0",
+  "updateUrl": "https://www.raftmodding.com/api/v1/mods/multi-bind/version.txt",
+  "isModPermanent": false,
+  "excludedFiles": []
+}
